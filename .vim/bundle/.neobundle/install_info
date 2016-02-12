@@ -1,0 +1,2 @@
+3.0
+{'neobundle.vim': {'checked_time': 1455262447, 'installed_uri': 'https://github.com/Shougo/neobundle.vim.git', 'installed_path': '/home/shishin/.vim/bundle/neobundle.vim', 'revisions': {}, 'updated_time': '1454939984'}, 'syntasitc': {'checked_time': 1455262447, 'installed_uri': 'https://github.com/scrooloose/syntasitc.git', 'installed_path': '/home/shishin/.vim/bundle/syntasitc', 'revisions': {}, 'updated_time': 1455262405}}
