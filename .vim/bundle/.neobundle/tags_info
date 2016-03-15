@@ -2,3 +2,7 @@ jedi-vim
 neobundle.vim
 neocomplete.vim
 nerdtree
+syntastic
+vim-template
+vim-virtualenv
+vimproc
